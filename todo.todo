@@ -1,10 +1,14 @@
 -- Syndicate
     : Syndicate's todo list
     -- New Features
-        : Maybe I'll add these
+        : Features ill be adding in the near future
 
         - Basic moderation system
         - Basic logging system 
         - Welcome & Leave configuration commands & sys
+    -- Bugs 
+        : Will list all the bugs here that will be fixed in the future 
+        
+        - None 
     --/
 --/
